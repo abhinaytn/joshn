@@ -4,7 +4,7 @@ const RESUME = {
 	bio: {
 		intro: "cs student at mdx, software engineer.",
 		about:
-			"Passionate about creating meaningful software and exploring new technologies. I love building products that solve real problems and make people's lives better.",
+			"I think creating software is pretty cool, always learning. There is so much shit I want to try!",
 	},
 	experience: [
 		{
@@ -22,27 +22,13 @@ const RESUME = {
 					/>
 				</svg>
 			),
-			company: "Vercel",
+			company: "Amadeus",
 			role: "Software Engineer",
 			description: "",
 			start_date: "2025-06-01",
 			end_date: "Present",
 			location: "San Francisco, CA",
-			company_website: "https://vercel.com",
-		},
-		{
-			icon: (
-				<div className="w-6 h-6 bg-primary rounded flex items-center justify-center text-primary-foreground text-xs font-mono">
-					W
-				</div>
-			),
-			company: "Warp",
-			role: "AI/ML Engineer",
-			description: "",
-			start_date: "2024-10-01",
-			end_date: "2025-03-01",
-			location: "Remote",
-			company_website: "https://joinwarp.com",
+			company_website: "https://amadeus.com/en",
 		},
 	],
 	education: {

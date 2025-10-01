@@ -47,15 +47,6 @@ export default async function Home() {
 
 				<div className="grid grid-cols-1 md:grid-cols-12 gap-4 md:gap-16">
 					<div className="col-span-1 md:col-span-3 text-muted-foreground text-sm font-medium mb-2 md:mb-0">
-						Recent GitHub Activity
-					</div>
-					<div className="col-span-1 md:col-span-9">
-						<Contributions data={contributions} />
-					</div>
-				</div>
-
-				<div className="grid grid-cols-1 md:grid-cols-12 gap-4 md:gap-16">
-					<div className="col-span-1 md:col-span-3 text-muted-foreground text-sm font-medium mb-2 md:mb-0">
 						Experience
 					</div>
 					<div className="col-span-1 md:col-span-9">
@@ -75,13 +66,13 @@ export default async function Home() {
 										</span>
 									</div>
 									<div className="text-muted-foreground leading-relaxed mb-3">
-										{experience.company === "Vercel"
-											? "Building next-generation web applications and AI developer tools. Currently helping build the AI SDK and focused on developer experience."
+										{experience.company === "Amadeus"
+											? "Built developer experience portals with backstage.io to improve developer oboarding and service discoverability across the organisation"
 											: "Leveraging AI to intelligently process PDFs, receipts, and financial documents. Building machine learning systems that extract, understand, and automate complex document workflows."}
 									</div>
 									<div className="text-muted-foreground text-xs">
-										{experience.company === "Vercel"
-											? "Jun 2025 to Present — London / SF"
+										{experience.company === "Amadeus"
+											? "Mar 2025 to Aug 2025 — Côte d'Azur, FR"
 											: "Oct 2024 to Mar 2025 — Remote"}
 									</div>
 								</div>
@@ -99,14 +90,14 @@ export default async function Home() {
 							<div>
 								<div className="mb-2">
 									<span className="text-foreground font-medium">
-										MDX University
+										École Centrale de Lyon
 									</span>
 								</div>
 								<div className="text-muted-foreground">
-									BSc in Computer Science
+									Master in Computer Science
 								</div>
 							</div>
-							<div className="text-muted-foreground">2024-2026</div>
+							<div className="text-muted-foreground">2024-2025</div>
 						</div>
 					</div>
 				</div>
@@ -117,7 +108,7 @@ export default async function Home() {
 					</div>
 					<div className="col-span-1 md:col-span-9">
 						<div className="text-muted-foreground leading-relaxed">
-							Go; Rust; TypeScript; Java; Python
+							I will learn whatever is required
 						</div>
 					</div>
 				</div>
@@ -128,7 +119,7 @@ export default async function Home() {
 					</div>
 					<div className="col-span-1 md:col-span-9">
 						<div className="text-muted-foreground leading-relaxed">
-							Open source; Gaming; Pokemon; Inazuma Eleven
+							Video Game Design (specifically Pokémon) and  a bunch of other stuff
 						</div>
 					</div>
 				</div>

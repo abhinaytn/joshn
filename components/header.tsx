@@ -11,32 +11,14 @@ export default function Header() {
 						<Link href="/" className="hover:text-foreground transition-colors">
 							home
 						</Link>
-						<Link
-							href="/blog"
-							className="hover:text-foreground transition-colors"
-						>
-							blog
-						</Link>
-						<Link
-							href="/uses"
-							className="hover:text-foreground transition-colors"
-						>
-							uses
-						</Link>
 						<span className="text-border/50 hidden md:inline">|</span>
 						<Link
-							href="mailto:josh@afterima.ge"
-							className="hover:text-foreground transition-colors"
-						>
-							email
-						</Link>
-						<Link
-							href="https://github.com/dancer"
+							href="https://www.linkedin.com/in/abhinaytn/"
 							target="_blank"
 							rel="noopener noreferrer"
 							className="hover:text-foreground transition-colors"
 						>
-							github
+							linkedin
 						</Link>
 					</nav>
 					<div className="text-muted-foreground text-sm md:hidden">
