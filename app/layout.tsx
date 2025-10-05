@@ -4,12 +4,9 @@ import ClientDropdownWrapper from "@/components/client-dropdown-wrapper";
 import { ThemeProvider } from "@/contexts/theme-context";
 
 export const metadata: Metadata = {
-	title: "Error 404: page not found",
-	description: "cs student at mdx, software engineer.",
+	title: "abhinay",
+	description: "looking for work",
 	metadataBase: new URL("https://jos.hn"),
-	icons: {
-    icon: "public/greatball.png",
-  },
 	openGraph: {
 		description: "cs student at mdx, software engineer.",
 		images: [
