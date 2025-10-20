@@ -4,7 +4,7 @@ const RESUME = {
 	bio: {
 		intro: "cs student at mdx, software engineer.",
 		about:
-			"I think creating software is pretty cool, always learning. There is so much shit I want to try!",
+			"I think creating software is pretty cool, always learning. There are so many things I want to try!",
 	},
 	experience: [
 		{
