@@ -22,12 +22,12 @@ export default function Header() {
 						</Link>
 					</nav>
 					<div className="text-muted-foreground text-sm md:hidden">
-						Bangalore / FRANCE
+						Bangalore (IN) / Nice (FR)
 					</div>
 				</div>
 			</div>
 			<div className="text-muted-foreground text-sm hidden md:block">
-				Bangalore / FRANCE
+				Bangalore (IN) / Nice (FR)
 			</div>
 		</div>
 	);

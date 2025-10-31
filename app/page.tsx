@@ -67,12 +67,12 @@ export default async function Home() {
 									</div>
 									<div className="text-muted-foreground leading-relaxed mb-3">
 										{experience.company === "Amadeus"
-											? "Built developer experience portals with backstage.io to improve developer oboarding and service discoverability across the organisation"
+											? "Built developer experience portals with backstage.io to improve oboarding and service discoverability across the organisation"
 											: "Leveraging AI to intelligently process PDFs, receipts, and financial documents. Building machine learning systems that extract, understand, and automate complex document workflows."}
 									</div>
 									<div className="text-muted-foreground text-xs">
 										{experience.company === "Amadeus"
-											? "Mar 2025 to Aug 2025 — Côte d'Azur, FR"
+											? "Mar 2025 to Aug 2025 — Nice, FR"
 											: "Oct 2024 to Mar 2025 — Remote"}
 									</div>
 								</div>
@@ -108,7 +108,7 @@ export default async function Home() {
 					</div>
 					<div className="col-span-1 md:col-span-9">
 						<div className="text-muted-foreground leading-relaxed">
-							I will learn whatever is required
+							Python, Typescript
 						</div>
 					</div>
 				</div>
@@ -119,7 +119,7 @@ export default async function Home() {
 					</div>
 					<div className="col-span-1 md:col-span-9">
 						<div className="text-muted-foreground leading-relaxed">
-							Video Game Design (specifically Pokémon) and  a bunch of other stuff
+							Open Source, Football, Pokémon
 						</div>
 					</div>
 				</div>

@@ -1,10 +1,10 @@
 const RESUME = {
 	name: "Abhinay",
-	avatar_path: "/me.jpg",
+	avatar_path: "/me.png",
 	bio: {
 		intro: "cs student at mdx, software engineer.",
 		about:
-			"I think creating software is pretty cool, always learning. There are so many things I want to try!",
+			"Passionate about creating meaningful software and excited for the future of tech!",
 	},
 	experience: [
 		{
@@ -23,7 +23,7 @@ const RESUME = {
 				</svg>
 			),
 			company: "Amadeus",
-			role: "Software Engineer",
+			role: "DevOps & Platform Engineering",
 			description: "",
 			start_date: "2025-06-01",
 			end_date: "Present",
