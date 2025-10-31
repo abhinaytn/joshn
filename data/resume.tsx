@@ -1,6 +1,6 @@
 const RESUME = {
 	name: "Abhinay",
-	avatar_path: "/me.png",
+	avatar_path: "/me.jpg",
 	bio: {
 		intro: "cs student at mdx, software engineer.",
 		about:

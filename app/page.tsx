@@ -5,7 +5,7 @@ import Header from "@/components/header";
 import type { Activity } from "@/components/ui/kibo-ui/contribution-graph";
 import RESUME from "@/data/resume";
 
-const username = "dancer";
+const username = "abhinaytn";
 const getCachedContributions = unstable_cache(
 	async () => {
 		const url = new URL(
@@ -119,7 +119,7 @@ export default async function Home() {
 					</div>
 					<div className="col-span-1 md:col-span-9">
 						<div className="text-muted-foreground leading-relaxed">
-							Open Source, Football, Pokémon
+							Open source, Football, Pokémon
 						</div>
 					</div>
 				</div>

@@ -5,7 +5,7 @@ import { ThemeProvider } from "@/contexts/theme-context";
 
 export const metadata: Metadata = {
 	title: "abhinay",
-	description: "looking for work",
+	description: "cs student at mdx, software engineer.",
 	metadataBase: new URL("https://jos.hn"),
 	openGraph: {
 		description: "cs student at mdx, software engineer.",
